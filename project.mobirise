@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FARELL BAND",
-    "currentPage": "farellband.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -75,14 +75,15 @@
     "cookiesAlert": false
   },
   "pages": {
-    "farellband.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "FARELL BAND",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "http://example.com"
       },
       "components": [
         {
